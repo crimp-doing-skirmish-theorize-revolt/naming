@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.a05fbbfc.chunk.css",
-    "main.js": "./static/js/main.ca4eeabe.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.2e74df60.js",
+    "main.js": "./static/js/main.a485ce50.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.a02460cf.js",
     "static/css/2.28ad6d8d.chunk.css": "./static/css/2.28ad6d8d.chunk.css",
-    "static/js/2.7e7a29c9.chunk.js": "./static/js/2.7e7a29c9.chunk.js",
-    "static/js/3.c2f23143.chunk.js": "./static/js/3.c2f23143.chunk.js",
-    "static/js/4.be567a29.chunk.js": "./static/js/4.be567a29.chunk.js",
-    "static/js/5.b7355a31.chunk.js": "./static/js/5.b7355a31.chunk.js",
-    "static/js/6.e7f2065a.chunk.js": "./static/js/6.e7f2065a.chunk.js",
-    "static/js/7.015d9747.chunk.js": "./static/js/7.015d9747.chunk.js",
+    "static/js/2.7d04bb5f.chunk.js": "./static/js/2.7d04bb5f.chunk.js",
+    "static/js/3.d47a7c74.chunk.js": "./static/js/3.d47a7c74.chunk.js",
+    "static/js/4.3623fd25.chunk.js": "./static/js/4.3623fd25.chunk.js",
+    "static/js/5.c3e7e4f8.chunk.js": "./static/js/5.c3e7e4f8.chunk.js",
+    "static/js/6.3fa4da78.chunk.js": "./static/js/6.3fa4da78.chunk.js",
+    "static/js/7.476a3a7f.chunk.js": "./static/js/7.476a3a7f.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.7e7a29c9.chunk.js.LICENSE.txt": "./static/js/2.7e7a29c9.chunk.js.LICENSE.txt",
-    "static/js/3.c2f23143.chunk.js.LICENSE.txt": "./static/js/3.c2f23143.chunk.js.LICENSE.txt",
-    "static/js/5.b7355a31.chunk.js.LICENSE.txt": "./static/js/5.b7355a31.chunk.js.LICENSE.txt",
+    "static/js/2.7d04bb5f.chunk.js.LICENSE.txt": "./static/js/2.7d04bb5f.chunk.js.LICENSE.txt",
+    "static/js/3.d47a7c74.chunk.js.LICENSE.txt": "./static/js/3.d47a7c74.chunk.js.LICENSE.txt",
+    "static/js/5.c3e7e4f8.chunk.js.LICENSE.txt": "./static/js/5.c3e7e4f8.chunk.js.LICENSE.txt",
     "static/media/app-store.15f01eef.svg": "./static/media/app-store.15f01eef.svg",
     "static/media/down.5288a447.png": "./static/media/down.5288a447.png",
     "static/media/easy-ways-ellipse.svg": "./static/media/easy-ways-ellipse.11ae1047.svg",
@@ -38,10 +38,10 @@
     "static/media/up.2621b2bb.png": "./static/media/up.2621b2bb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e74df60.js",
+    "static/js/runtime-main.a02460cf.js",
     "static/css/2.28ad6d8d.chunk.css",
-    "static/js/2.7e7a29c9.chunk.js",
+    "static/js/2.7d04bb5f.chunk.js",
     "static/css/main.a05fbbfc.chunk.css",
-    "static/js/main.ca4eeabe.chunk.js"
+    "static/js/main.a485ce50.chunk.js"
   ]
 }
