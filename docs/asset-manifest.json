@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.e68c6c89.css",
-    "main.js": "./static/js/main.392b2c70.js",
+    "main.css": "./static/css/main.43b4e912.css",
+    "main.js": "./static/js/main.7141b698.js",
     "static/js/316.6ea391b4.chunk.js": "./static/js/316.6ea391b4.chunk.js",
-    "static/js/442.6650f595.chunk.js": "./static/js/442.6650f595.chunk.js",
+    "static/js/7.ec5931d3.chunk.js": "./static/js/7.ec5931d3.chunk.js",
     "static/js/261.47f0d471.chunk.js": "./static/js/261.47f0d471.chunk.js",
-    "static/js/227.0fb8d11c.chunk.js": "./static/js/227.0fb8d11c.chunk.js",
+    "static/js/459.12ea09d4.chunk.js": "./static/js/459.12ea09d4.chunk.js",
     "static/js/156.938ae5e8.chunk.js": "./static/js/156.938ae5e8.chunk.js",
     "static/js/27.3906c7c5.chunk.js": "./static/js/27.3906c7c5.chunk.js",
     "static/js/915.d2eb993e.chunk.js": "./static/js/915.d2eb993e.chunk.js",
@@ -41,7 +41,7 @@
     "static/media/mail.svg": "./static/media/mail.4baa02bd17f77cc1320bb32c3e351c30.svg"
   },
   "entrypoints": [
-    "static/css/main.e68c6c89.css",
-    "static/js/main.392b2c70.js"
+    "static/css/main.43b4e912.css",
+    "static/js/main.7141b698.js"
   ]
 }
