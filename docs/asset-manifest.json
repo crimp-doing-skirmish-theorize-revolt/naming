@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.43b4e912.css",
-    "main.js": "./static/js/main.cab33053.js",
+    "main.js": "./static/js/main.bd4058d0.js",
     "static/js/316.6ea391b4.chunk.js": "./static/js/316.6ea391b4.chunk.js",
-    "static/js/7.04a14c21.chunk.js": "./static/js/7.04a14c21.chunk.js",
-    "static/js/261.47f0d471.chunk.js": "./static/js/261.47f0d471.chunk.js",
-    "static/js/459.12ea09d4.chunk.js": "./static/js/459.12ea09d4.chunk.js",
+    "static/js/7.34ec7305.chunk.js": "./static/js/7.34ec7305.chunk.js",
+    "static/js/261.9218170c.chunk.js": "./static/js/261.9218170c.chunk.js",
+    "static/js/459.9a127dc4.chunk.js": "./static/js/459.9a127dc4.chunk.js",
     "static/js/156.938ae5e8.chunk.js": "./static/js/156.938ae5e8.chunk.js",
     "static/js/27.3906c7c5.chunk.js": "./static/js/27.3906c7c5.chunk.js",
-    "static/js/915.d2eb993e.chunk.js": "./static/js/915.d2eb993e.chunk.js",
+    "static/js/915.c87f9a58.chunk.js": "./static/js/915.c87f9a58.chunk.js",
     "static/media/twitter-2.png": "./static/media/twitter-2.09ae6f71c14832cfee35.png",
     "static/media/twitter-1.png": "./static/media/twitter-1.74367b8cc7fcb7f39b30.png",
     "static/media/twitter-3.png": "./static/media/twitter-3.c249576582a4faaf13e3.png",
@@ -42,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.43b4e912.css",
-    "static/js/main.cab33053.js"
+    "static/js/main.bd4058d0.js"
   ]
 }
